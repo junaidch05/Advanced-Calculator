@@ -4,7 +4,7 @@
 
 ## Link
  https://junaidch05.github.io/Advanced-Calculator/
- 
+
 ## Overview
 
 This project is a JavaScript-based calculator application that allows users to perform basic arithmetic operations, create variables, and store calculation history. The application is designed with a web-based interface and includes features such as keyboard interaction and input validation.
@@ -40,7 +40,6 @@ This project is a JavaScript-based calculator application that allows users to p
 
 ## Future Enhancements
 
-- Implement advanced mathematical functions like trigonometry and logarithms.
-- Allow users to export the calculation history.
+- Implement more advanced mathematical functions.
 - Improve input validation with more comprehensive error handling.
 
